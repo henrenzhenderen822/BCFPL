@@ -17,7 +17,7 @@ data_transforms = transforms.Compose([transforms.Resize([size, size]),
                                       transforms.Resize([input_size, input_size]),
                                       transforms.ToTensor()])
 
-my_dataset = datasets.ImageFolder('data/mydata', data_transforms)
+my_dataset = datasets.ImageFolder('data/MiniPK', data_transforms)
 my_loader = DataLoader(my_dataset, batch_size=batchsz, shuffle=True)
 
 

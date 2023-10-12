@@ -4,11 +4,11 @@ import pandas as pd
 import cv2
 import numpy as np
 
-imgname = 'zonghe3'
+imgname = 'parking'
 # 读取需要操作的图片
-image = cv2.imread('cameras/TJU_PK/' + imgname + '.jpg')
+image = cv2.imread(imgname + '.jpg')
 # 填写需要保存的文件名称
-filename = 'cameras/TJU_PK/' + imgname + '.csv'
+filename = imgname + '.csv'
 
 current_pos = None
 tl = None

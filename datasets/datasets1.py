@@ -9,6 +9,8 @@ import pandas as pd
 import random
 from parameters import Parameters
 
+# current_directory = os.getcwd()  # 获取当前路径
+# parent_directory = os.path.dirname(current_directory)  # 获取上一层路径
 
 '''图像大小以及批大小'''
 size = Parameters.img_size
@@ -25,7 +27,7 @@ class Patchs(Dataset):
         self.tf = tf
 
         # image_path, label   (路径+标签)
-        self.images, self.labels = self.load_txt('data/LABELS/all.txt')
+        self.images, self.labels = self.load_txt("data/CNRPark_labels/all.txt")
 
         # 从上面的全部图片信息中截取不同的比例用作不同用途
         if mode == 'train':
@@ -91,8 +93,8 @@ data_transforms ={
         transforms.ToTensor()])
     }
 
-train_datasets = Patchs('data/PATCHES', data_transforms['train'], mode='train')
-test_datasets = Patchs('data/PATCHES', data_transforms['test'], mode='test')
+train_datasets = Patchs('data/CNRPark_patches', data_transforms['train'], mode='train')
+test_datasets = Patchs('data/CNRPark_patches', data_transforms['test'], mode='test')
 
 train_loader = DataLoader(train_datasets, batch_size=batchsz, shuffle=True)
 test_loader = DataLoader(test_datasets, batch_size=batchsz, shuffle=True)

@@ -1,0 +1,295 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="993529f3-1efb-41c5-b0ce-310404410b39" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/example/parking.jpg" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot1/2012-09-12_10_05_57_jpg.rf.6c6ea75cebbdce4afd1c13c1e336ca93.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot1/2012-09-12_14_12_08_jpg.rf.a211f35a18d10e8fff182f6bab77f6d9.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot1/PKLot1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot2/2013-02-22_07_50_01_jpg.rf.06d6f41b436338f62de9a8003d84800f.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot2/2013-03-02_11_10_06_jpg.rf.2415462132c285990acf5a73f0f3cc86.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot2/PKLot2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot3/2013-01-17_15_30_11_jpg.rf.10a8fe9da2a330a7e674d92157477c9d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot3/2013-01-22_18_20_13_jpg.rf.45125aa132f5abd05bb18ed5da236b7d.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/PKLot3/PKLot3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/1.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/2.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/3.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/4.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/5.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/5teach.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/6.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/6teach1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/6teach2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/6teach3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/7.png" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/zonghe1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/zonghe2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_LR/zonghe3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/5teach.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/5teach.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/6teach1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/6teach1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/6teach2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/6teach2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/6teach3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/6teach3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/zonghe1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/zonghe1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/zonghe2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/zonghe2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/zonghe3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/TJU_PK/zonghe3.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/baidu1/baidu1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/baidu1/baidu1.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/baidu2/baidu2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/baidu2/baidu2.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera1/2015-11-16_0910.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera1/camera1.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera2/2015-11-16_1344.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera2/camera2.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera3/2015-11-12_0915.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera3/camera3.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera4/2015-11-12_0916.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera4/2015-11-12_1516.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera4/camera4.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera4/low.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera5/2015-11-12_1647.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera5/2015-11-27_0847.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera5/camera5.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera6/2015-11-12_0946.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera6/2015-11-12_1246.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera6/camera6.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera7/2015-11-12_0947.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera7/2015-11-12_1217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera7/camera7.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera8/2015-11-12_1606.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera8/camera8.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera9/2015-11-12_0717.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera9/2015-11-12_1217.jpg" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cameras/camera9/camera9.csv" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/__init__.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets1.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/datasets1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets3.py" beforeDir="false" afterPath="$PROJECT_DIR$/datasets/datasets3.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_CNRParkEven.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_CNRParkOdd.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_C_OVERCAST.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_C_RAINY.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_C_SUNNY.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_P_PUC.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_P_UFPR04.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_P_UFPR05.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera1.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera2.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera3.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera4.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera5.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera6.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera7.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera8.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/datasets/datasets_camera9.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/mark.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/model.py" beforeDir="false" afterPath="$PROJECT_DIR$/model.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/parameters.py" beforeDir="false" afterPath="$PROJECT_DIR$/parameters.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/run.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/test.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;customColor&quot;: &quot;&quot;,
+  &quot;associatedIndex&quot;: 2
+}</component>
+  <component name="ProjectId" id="2WQxVdXWzatxXXFgE8BGCQJOLmH" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "last_opened_file_path": "D:/BCFPL",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PythonContentEntriesConfigurable"
+  }
+}]]></component>
+  <component name="RunManager" selected="Python.train">
+    <configuration name="BanBen" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BCFPL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/../../../PyTorch_project" />
+      <option name="IS_MODULE_SDK" value="false" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/../../../PyTorch_project/BanBen.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="datasets1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BCFPL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/datasets1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="mark" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BCFPL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/example" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/example/mark.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="run" type="PythonConfigurationType" factoryName="Python" nameIsGenerated="true">
+      <module name="BCFPL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/run.py" />
+      <option name="PARAMETERS" value="--img_size 9" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test (1)" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BCFPL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/datasets" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/datasets/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="BCFPL" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.mark" />
+        <item itemvalue="Python.datasets1" />
+        <item itemvalue="Python.test (1)" />
+        <item itemvalue="Python.BanBen" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="993529f3-1efb-41c5-b0ce-310404410b39" name="Changes" comment="" />
+      <created>1696678631716</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1696678631716</updated>
+    </task>
+    <servers />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/datasets/datasets3.py</url>
+          <line>9</line>
+          <option name="timeStamp" value="1" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+  </component>
+</project>

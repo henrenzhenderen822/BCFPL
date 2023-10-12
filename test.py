@@ -1,17 +1,15 @@
-'''此程序用来测试，得到结果图像'''
 
-import torch
-import os
-import cv2
-import numpy as np
-import time
-from parameters import Parameters
-from net.net_2conv import Binarynet
+
+print("1213123")
+
+# n = int(input())   # 节点数量
+# s = input()        # 表示节点颜色的字符串
 #
-# 加载模型
-modelname = 'checkpoints/MyNet/10-23_2134.pth'  # 已保存的模型文件
-model = Binarynet().to('cuda')
-model.load_state_dict(torch.load(modelname)['state_dict'])   # 加载保存好的模型
+# par = []     # 节点之间的路径
+# for i in range(n-1):
+#     u, v = map(int, input().split(" "))
+#     par.append([u, v])
+#
+# print(par)
 
-x = torch.rand(1, 3, 7, 7)
 

@@ -9,19 +9,16 @@ from parameters import Parameters
 from model import Binarynet
 #
 # 加载模型
-modelname = 'checkpoints/train on PKLot/7/11-01_1939.pth'  # 已保存的模型文件
+modelname = '../checkpoints/10-09_2208.pth'  # 已保存的模型文件
 model = Binarynet().to('cuda')
 model.load_state_dict(torch.load(modelname)['state_dict'])   # 加载保存好的模型
 
 # 加载图像
-img_path = 'cameras/TJU_LR/7.png'
-image = cv2.imread(img_path)
+img_name = 'parking.jpg'
+image = cv2.imread(img_name)
 
 # 加载停车位的坐标数据
-filename = 'cameras/TJU_LR/zonghe3.csv'
-
-# '''★★★★★在此修改结果图片的保存路径★★★★★'''
-path = 'result_img/'
+filename = 'parking.csv'
 
 '''★★★★★在此修改单个停车位的图片大小★★★★★'''
 img_size = Parameters.img_size
@@ -81,7 +78,7 @@ cv_show(image)
 
 # 以日期为名称保存结果图片
 now = time.strftime('%m-%d_%H%M_%S')
-imgname = os.path.join(path, now + '.jpg')
+imgname = now + '.jpg'
 cv2.imwrite(imgname, image)
 
 

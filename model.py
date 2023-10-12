@@ -9,23 +9,21 @@ class Binarynet(nn.Module):
     def __init__(self):
         super(Binarynet, self).__init__()
         self.conv1 = nn.Sequential(
-            nn.Conv2d(3, 8, kernel_size=5, stride=2, padding=0),
+            nn.Conv2d(3, 8, kernel_size=7, stride=3, padding=0),
             nn.ReLU(),
             nn.BatchNorm2d(8),
-            nn.MaxPool2d(kernel_size=3, stride=2)
         )
 
         self.conv2 = nn.Sequential(
-            nn.Conv2d(8, 16, kernel_size=3, stride=1, padding=0),
+            nn.Conv2d(8, 16, kernel_size=7, stride=2, padding=0),
             nn.ReLU(),
             nn.BatchNorm2d(16),
-            nn.MaxPool2d(kernel_size=3, stride=2)
         )
 
         self.conv = nn.Sequential(self.conv1, self.conv2)
 
         self.fc = nn.Sequential(
-            nn.Linear(16*4*4, 60),
+            nn.Linear(16*5*5, 60),
             nn.ReLU(),
             nn.Dropout(0.5),
             nn.Linear(60, 2)
@@ -52,3 +50,6 @@ def main():
 
 if __name__ == '__main__':
     main()
+
+
+
